@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  michalw_zadanie2
+
+  Created by student on 23/11/2023.
+  Copyright © 2023 D. All rights reserved.
+*/
+"Information"="Information";
+"The faculty is running %i programs on graduate and undergraduate level."="The faculty is running %i programs on graduate and undergraduate level.";
+"image"="wi-en";

@@ -1,0 +1,10 @@
+/* 
+  Localizable.strings
+  michalw_zadanie2
+
+  Created by student on 23/11/2023.
+  Copyright © 2023 D. All rights reserved.
+*/
+"Information"="Informacja";
+"The faculty is running %i programs on graduate and undergraduate level."="Wydział prowadzi %i programów na poziomie magisterskim i licencjackim.";
+"image"="wi-pl";
